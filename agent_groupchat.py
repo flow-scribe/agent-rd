@@ -1,6 +1,5 @@
 import uuid
 from os import environ
-environ["OPENAI_API_KEY"] = "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"
 
 from autogen_core import (
 DefaultTopicId,
